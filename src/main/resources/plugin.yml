@@ -1,0 +1,11 @@
+name: CyonOres
+version: '${project.version}'
+main: me.evilterabite.cyonores.CyonOres
+api-version: 1.18
+authors: [ evilterabite ]
+description: A ore gen plugin for CyonMC
+commands:
+  getgenerator:
+    description: gets a gen
+  gendev:
+    description: dev command

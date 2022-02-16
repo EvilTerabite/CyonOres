@@ -1,0 +1,11 @@
+##config.yml
+
+
+generators:
+#  1:
+#    type: "string"
+#    location:
+#      world: "string"
+#      x: 0
+#      y: 0
+#      z: 0
